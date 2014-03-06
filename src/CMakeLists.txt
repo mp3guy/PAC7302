@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 2.6.0)
+project(PAC7302)
 
 SET(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_CURRENT_SOURCE_DIR})
 

@@ -1,7 +1,7 @@
 PAC7302
 =======
 
-Small applet to configure/calibrate the PAC7302 USB camera (Technika H16WC-01 from Tesco).
+Small application to configure/calibrate the PAC7302 USB camera (Technika H16WC-01 from Tesco).
 
 Performs intrinsic and distortion parameter calibration. Also rectifies image and shows scaleless 3D pose of camera in OpenGL view. 
 

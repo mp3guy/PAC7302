@@ -12,3 +12,5 @@ Uses FindLibV4LConvert.cmake from [https://github.com/dos1/kamerka/blob/master/m
 Uses some code from the B-Human code release (http://www.b-human.de/). 
 
 Worst camera ever. The settings don't seem to work, only white balance (which is actually auto!). Feel free to fix!
+
+![PAC7302](http://mp3guy.github.io/img/PAC7302.png)

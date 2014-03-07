@@ -13,4 +13,7 @@ Uses some code from the B-Human code release (http://www.b-human.de/).
 
 Worst camera ever. The settings don't seem to work, only white balance (which is actually auto!). Feel free to fix!
 
-![PAC7302](http://mp3guy.github.io/img/PAC7302.png)
+<p align="center">
+  <img src="http://mp3guy.github.io/img/PAC7302.png" alt="PAC7302"/>
+</p>
+
